@@ -856,8 +856,13 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/mbr-1920x960.jpg");
 }
 .cid-rYu7DnvyDR {
-  padding-top: 45px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rYucX6skZf {
+  padding-top: 15px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rYu7oNwv7k {
